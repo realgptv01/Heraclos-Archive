@@ -1,1 +1,1 @@
-# These are Heraclos' voicelines (Whining, death, etc.)
+# These are Heraclos' voicelines (Complaining, death, etc.)
